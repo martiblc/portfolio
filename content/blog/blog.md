@@ -5,15 +5,14 @@ widget: portfolio
 
 # This file represents a page section.
 headless: true
-
+active: true
 # Order that this section appears on the page.
-weight: 65
+weight: 20
 
-title: Projects
-subtitle: ''
+title: Blog
+subtitle: 'coucou test sous-titre'
 
 content:
-  # Page type to display. E.g. project.
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
@@ -46,3 +45,10 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+
+
+
+
+
+
